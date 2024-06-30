@@ -3,6 +3,10 @@
 ## Overview
 This repository contains a comprehensive analysis of the Indian General Elections 2024 for the Lok Sabha, focusing on the 543 constituencies across India. The analysis includes various visualizations created using Jupyter Notebook and Power BI, with a special emphasis on the seat shares and margins of the five South Indian states.
 
+**Explore the Power BI Dashboard**: Open the `.pbix` file using Power BI Desktop to interact with the visualizations.
+
+Please refer this video for insights walk-through: https://www.loom.com/share/e58f9cfc6a1b41b6ba68bafb7ddedd5c?sid=cef536a4-a7b8-4db9-828b-4810d22d298c
+
 ## Contents
 - **Jupyter Notebook**: Contains the code for data collection, cleaning, and visualization.
 - **Power BI Dashboard**: Interactive visualizations for a deeper insight into the election data.
@@ -19,21 +23,6 @@ The following visualizations are included in the analysis:
 - **Seat Shares**: Analysis of how different parties performed in terms of seat shares.
 - **Winning Margins**: Examination of the winning margins across constituencies.
 - **State-wise Analysis**: Detailed insights into the election results of the five South Indian states.
-
-## How to Use
-1. **Clone the Repository**:
-    ```bash
-    git clone https://github.com/yourusername/indian-general-elections-2024-analysis.git
-    ```
-2. **Navigate to the Directory**:
-    ```bash
-    cd indian-general-elections-2024-analysis
-    ```
-3. **Open the Jupyter Notebook**:
-    ```bash
-    jupyter notebook
-    ```
-4. **Explore the Power BI Dashboard**: Open the `.pbix` file using Power BI Desktop to interact with the visualizations.
 
 ## Requirements
 - **Power BI Desktop** (for viewing the Power BI dashboard)

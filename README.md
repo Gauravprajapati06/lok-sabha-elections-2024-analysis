@@ -5,8 +5,6 @@ This repository contains a comprehensive analysis of the Indian General Election
 
 **Explore the Power BI Dashboard**: Open the `.pbix` file using Power BI Desktop to interact with the visualizations.
 
-Please refer this video for insights walk-through: https://www.loom.com/share/e58f9cfc6a1b41b6ba68bafb7ddedd5c?sid=cef536a4-a7b8-4db9-828b-4810d22d298c
-
 ## Contents
 - **Jupyter Notebook**: Contains the code for data collection, cleaning, and visualization.
 - **Power BI Dashboard**: Interactive visualizations for a deeper insight into the election data.
